@@ -1,3 +1,7 @@
+Vim一键安装版：
+    http://spacevim.org/README_zh_cn/
+
+
 Vim 里的快捷键
 屏幕操作前缀：ctrl + w
     光标移动：h或者j或者k或者l
